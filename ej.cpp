@@ -1,0 +1,2 @@
+/*este es un ejemplito para
+el paso a paso de git y github*/
